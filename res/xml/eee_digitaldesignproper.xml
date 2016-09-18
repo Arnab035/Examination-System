@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<questions>
+	<question>
+		<question-number>1</question-number>
+		<difficulty>1</difficulty>
+		<body>1.The Board of Industrial and Financial Reconstruction (BIFR) came into existence in
+		</body>
+		<answerType>multiple-select</answerType>
+		<option1>a)1984</option1>
+		<option2>b)1986</option2>
+		<option3>c)1987</option3>
+		<option4>d)1989</option4>
+		<answer>a</answer>
+	</question>
+	<question>
+		<question-number>2</question-number>
+		<difficulty>1</difficulty>
+		<body>2.Deficit financing implies
+		</body>
+		<answerType>single-select</answerType>
+		<option1>a)printing new currency notes</option1>
+		<option2>b)replacing new currency with worn out currency</option2>
+		<option3>c)public expenditure in excess of public revenue</option3>
+		<option4>d)public revenue in excess of public expenditure</option4>
+		<answer>a</answer>
+	</question>
+	<question>
+		<question-number>3</question-number>
+		<difficulty>1</difficulty>
+		<body>3.Lal Bahadur Shastri is also known as
+		</body>
+		<answerType>single-select</answerType>
+		<option1>a)Guruji</option1>
+		<option2>b)Man of Peace</option2>
+		<option3>c)Punjab Kesari</option3>
+		<option4>d)Mahamana</option4>
+		<answer>b</answer>
+	</question>
+	<question>
+		<question-number>4</question-number>
+		<difficulty>1</difficulty>
+		<body>4.Liquid asset is
+		</body>
+		<answerType>single-select</answerType>
+		<option1>a)a type of asset that is in cash in the current account of the commercial bank</option1>
+		<option2>b)a type of asset that is in the form of a deposit in the current account of the commercial bank</option2>
+		<option3>c)either of these</option3>
+		<option4>d)None of the above</option4>
+		<answer>d</answer>
+	</question>
+	<question>
+		<question-number>5</question-number>
+		<difficulty>1</difficulty>
+		<body>5.Moment of inertia is
+		</body>
+		<answerType>single-select</answerType>
+		<option1>a)vector</option1>
+		<option2>b)scalar</option2>
+		<option3>c)phasor</option3>
+		<option4>d)tensor</option4>
+		<answer>c</answer>
+	</question>
+
+	<question>
+		<question-number>6</question-number>
+		<difficulty>1</difficulty>
+		<body>6.What invention caused many deaths while testing it?		
+		</body>
+		<answerType>single-select</answerType>
+		<option1>a)Dynamite</option1>
+		<option2>b)Ladders</option2>
+		<option3>c)Race cars</option3>
+		<option4>d)Parachute</option4>
+		<answer>c</answer>
+	</question>
+
+	<question>
+		<question-number>7</question-number>
+		<difficulty>1</difficulty>
+		<body>7.What beverage was invented by Charles Alderton in 1885 in Waco, Texas?	
+		</body>
+		<answerType>single-select</answerType>
+		<option1>a)Cream soda</option1>
+		<option2>b)Coca-Cola</option2>
+		<option3>c)Dr. Pepper</option3>
+		<option4>d)Sprite</option4>
+		<answer>c</answer>
+	</question>
+	<question>
+		<question-number>8</question-number>
+		<difficulty>1</difficulty>
+		<body>8.Experts say the healthiest way to view a computer monitor is by...
+		</body>
+		<answerType>single-select</answerType>
+		<option1>a)Placing it 18 to 30 inches away from your eyes</option1>
+		<option2>b)Viewing from a darkened room</option2>
+		<option3>c)Adjusting the screen for maximum contrast</option3>
+		<option4>d)Using special glasses that filter out UV rays</option4>
+		<answer>c</answer>
+	</question>
+	<question>
+		<question-number>9</question-number>
+		<difficulty>1</difficulty>
+		<body>9.Ramapithecus and Cro-Magnon man are considered
+		</body>
+		<answerType>single-select</answerType>
+		<option1>a)ancestors of modern man</option1>
+		<option2>b)ancestors of monkey</option2>
+		<option3>c)ancestors of lion</option3>
+		<option4>d)None of the above</option4>
+		<answer>c</answer>
+	</question>
+	<question>
+		<question-number>10</question-number>
+		<difficulty>1</difficulty>
+		<body>10.The important industries of Assam are
+		</body>
+		<answerType>single-select</answerType>
+		<option1>a)tea processing, oil refineries and coal</option1>
+		<option2>b)silk and plywood</option2>
+		<option3>c)both (a) and (b)</option3>
+		<option4>d)None of the above</option4>
+		<answer>c</answer>
+	</question>
+</questions>
+
